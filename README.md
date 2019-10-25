@@ -1,2 +1,2 @@
 ﻿# ogasawara-a
-https://github.com/yabukilab/ogasawara-a
+	https://ogasawaraa.pm-chiba.tech/
